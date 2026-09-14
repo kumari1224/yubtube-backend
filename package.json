@@ -1,0 +1,25 @@
+{
+  "name": "yubtube-backend",
+  "version": "1.0.0",
+  "description": "This repo will containt he yubtube backend code",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumari1224/yubtube-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/kumari1224/yubtube-backend/issues"
+  },
+  "homepage": "https://github.com/kumari1224/yubtube-backend#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
